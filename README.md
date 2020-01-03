@@ -32,3 +32,4 @@ HOW TO RUN THE PROGRAM
 3. Exmaple execution in command prompt: [ Python main.py ]
 4. Once executed, the menu will be displayed as -
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
