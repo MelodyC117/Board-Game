@@ -27,12 +27,13 @@ GAME RULES
 
 HOW TO RUN THE PROGRAM
 **********************************************************************************************
-x. All source codes are included in /src directory;
-x. Use any IDE or command prompt to execute file [  main.py  ];
-x. Exmaple execution in command prompt: [ Python main.py ]
-x. Once executed, the menu will be displayed as -
+1. All source codes are included in /src directory;
+2. Use any IDE or command prompt to execute file [  main.py  ];
+3. Exmaple execution in command prompt: [ Python main.py ]
+4. Once executed, the menu will be displayed as -
 
---------------------------------------------------------
+
+**********************************************************
    Welcome to the Mancala Game!
    Please Choose a Type for Player 1 and Player 2:
    Menu: 2 - human
@@ -43,18 +44,19 @@ x. Once executed, the menu will be displayed as -
 
    Player 1:
    Player 2:
---------------------------------------------------------
 
-x. Enter types for player 1 and player 2:
+**********************************************************
+
+1. Enter types for player 1 and player 2:
    e.g. 2 [ENTER] 
         4 [ENTER] 
    for Human vs. Minimax
-x. Game starts once receiving player types in the correct format;
-x. When game ends, user will be prompted to start a new game;
-x. If user wishes to modify maximum depth for Minimax or Alpha-Beta, do the following - 
+2. Game starts once receiving player types in the correct format;
+3. When game ends, user will be prompted to start a new game;
+4. If user wishes to modify maximum depth for Minimax or Alpha-Beta, do the following - 
    - Find command [ Game(player_one, name_one, player_two, name_two, 6, 6).play() ] 
      in line [405];
    - The first 6 in the line specifies max depth for Minimax;
    - The first 6 in the line specifies max depth for Alpha-Beta;
-x. WARNING: depth beyond 7 for Minimax and 9 for Alpha-Beta are not recommended for 
+5. WARNING: depth beyond 7 for Minimax and 9 for Alpha-Beta are not recommended for 
    optimal gaming experience;
