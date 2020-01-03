@@ -1,8 +1,6 @@
 # Board Game
 
-Simple game with Intelligent Agents 
-
-GAME RULES
+GAME RULES (from wiki)
 **********************************************************************************************
 1. At the beginning of the game, four seeds are placed in each house.
 
@@ -27,7 +25,7 @@ GAME RULES
 
 HOW TO RUN THE PROGRAM
 **********************************************************************************************
-1. All source codes are included in /src directory;
+1. All source codes are included in main.py;
 2. Use any IDE or command prompt to execute file [  main.py  ];
 3. Exmaple execution in command prompt: [ Python main.py ]
 4. Once executed, the menu will be displayed as -
