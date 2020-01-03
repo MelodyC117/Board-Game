@@ -32,4 +32,16 @@ HOW TO RUN THE PROGRAM
 3. Exmaple execution in command prompt: [ Python main.py ]
 4. Once executed, the menu will be displayed as -
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of game1](https://github.com/MelodyC117/Board-Game/blob/master/game.png)
+
+**********************************************************************************************
+
+![Image of game2](https://github.com/MelodyC117/Board-Game/blob/master/game2.png)
+
+**********************************************************************************************
+
+![Image of game3](https://github.com/MelodyC117/Board-Game/blob/master/game3.png)
+
+**********************************************************************************************
+
+![Image of game4](https://github.com/MelodyC117/Board-Game/blob/master/game4.png)
